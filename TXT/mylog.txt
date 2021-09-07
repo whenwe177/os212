@@ -4,4 +4,6 @@ ZCZC W00 45 L09 Taking notes for reading assingment
 ZCZC W00 60 L09 Taking notes for reading assignment
 ZCZC W00 120 L09 Taking notes for reading assignment
 ZCZC W01 15 L11 Assignment 01
-ZCZC W02 60 L12 Assignment 02
+ZCZC W01 60 L12 Assignment 02
+ZCZC W01 30 L13 Assignment 03
+ZCZC W01 120 L14 Assignment 04
