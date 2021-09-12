@@ -1,8 +1,9 @@
 version:     "0018b--03-Aug-2021"
 copyright:   "2021-2021"
 description:
-  This is a
-  GitHub Page Template
+  Alexander Caesario Bangun
+  Github Page for Operating Systems 2021-2 (odd semester)
+  The template is taken from https://template.vlsm.org/template.zip
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
@@ -13,21 +14,13 @@ navbarlinks:
   link:      "/LINKS/"
 - navbar:    "Tips"
   link:      "/TIPS/"
-- navbar:    "Zip File"
-  link:      "/template.zip"
-- navbar:    "TarBall"
-  link:      "/template.tar.bz2"
+- navbar:    "My Log"
+  link:      "https://whenwe177.github.io/os212/TXT/mylog.txt"
 - navbar:    "GitHub"
-  link:      "https://github.com/ThisIsHowMeDoIt/template/"
-- navbar:    "Listing"
-  link:      "/000.html"
-- navbar:    "About"
-  link:      "/ABOUT/"
-- navbar:    "GitHub Page"
-  link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+  link:      "https://github.com/whenwe177/os212/"
+title:       "Alexander Caesario Bangun OS212"
 lang:        "en-US"
-author:      "J. Walker"
+author:      "Alexander Caesario Bangun"
 address:     "Box 7, Mawitaan, Bangalla."
 sitemap:     "true"
 markdown:    "kramdown"
@@ -43,8 +36,8 @@ plugins:
 - jekyll-seo-tag
 google_analytics: "UA-89852122-15"
 
-urlweb:           "https://template.vlsm.org/"
+urlweb:           "https://whenwe177.github.io/os212/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+urlgithub:        "https://github.com/whenwe177/os212/"
 
 
