@@ -35,7 +35,7 @@ START: Sun 01 Aug 2021 21:20:00 WIB
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:            hsla(120, 100%,  50%, 1);
+  color:            hsl(196, 90%, 61%);
 }
 
 pre {
