@@ -8,7 +8,7 @@ I am {{ site.author }}, and I am a student on Operating Systems Class 2021-2. Th
 ## My Links
 
 | [HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [GitHub]({{ site.urlgithub }}) | [LOG]({{ site.baseurl }}/TXT/mylog.txt) |
+| [GitHub]({{ site.urlgithub }}) | [LOG]({{ site.urlgithub }}/TXT/mylog.txt) |
 
 <br>
 
