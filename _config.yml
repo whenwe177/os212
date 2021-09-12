@@ -12,8 +12,6 @@ navbarlinks:
   link:      "/"
 - navbar:    "Links"
   link:      "/LINKS/"
-- navbar:    "Tips"
-  link:      "/TIPS/"
 - navbar:    "My Log"
   link:      "https://whenwe177.github.io/os212/TXT/mylog.txt"
 - navbar:    "GitHub"
