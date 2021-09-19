@@ -21,4 +21,12 @@ This webpage contains 35 Linux Basic commands commonly used. It has certainly he
 7. [Regex Cheatsheet](https://www.rexegg.com/regex-quickstart.html)
 This webpage contains several commands you can apply while using regex in Linux. It is very useful as it clearly states how regex can be applied as well as it can be used in a similar fashion in Linux terminals.
 
+### Week 02
+1. [C Language Basics](https://www.geeksforgeeks.org/c-language-set-1-introduction/)<br>
+This website shows the main basics of C, from program structure and syntax. I feel that this is necessary in order to understand the basics of C.
 
+2. [C Language Cheatsheet](https://www.tutorialspoint.com/cprogramming/index.htm)<br>
+This website has all the methods necessary for the C programming language. I feel that this could help myself in programming C in the case I may forgot any syntax.
+
+3. [Top 10 most common cybersecurity attacks](https://www.infocyte.com/blog/2019/05/01/cybersecurity-101-intro-to-the-top-10-common-types-of-cyber-security-attacks/)<br>
+This website has a list of the most common cybersecurity attacks. Therefore, I believe that it can be used to point out what type of attacks that are usually conducted.
