@@ -30,3 +30,13 @@ This website has all the methods necessary for the C programming language. I fee
 
 3. [Top 10 most common cybersecurity attacks](https://www.infocyte.com/blog/2019/05/01/cybersecurity-101-intro-to-the-top-10-common-types-of-cyber-security-attacks/)<br>
 This website has a list of the most common cybersecurity attacks. Therefore, I believe that it can be used to point out what type of attacks that are usually conducted.
+
+### Week 03
+1. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+This website contains the different types of directory in Linux's FHS. The explanations in this website are short and precise, and is easy to understand for me.
+
+2.[Mounting a disk in Linux](https://www.makeuseof.com/tag/mounting-hard-disks-partitions-using-linux-command-line/)<br>
+This website shows steps in mounting and unmounting a disk in Linux. I beleive it is useful in cases where we need to mount new hard disks into Linux.
+
+3.[File Systems in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
+This website shows the main basics of file systems in all operating systems. I feel that it is useful to understand the basics of how file systems in OS works.
