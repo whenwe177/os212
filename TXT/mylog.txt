@@ -23,3 +23,7 @@ ZCZC W04 15 L14 Assignment 04
 ZCZC W04 45 L15 Assignment 05
 ZCZC W04 70 L16 Finding sources for links.md
 ZCZC W04 30 L17 Peer reviewing links
+ZCZC W05 25 L13 Assignment 03
+ZCZC W05 45 L14 Assignment 04
+ZCZC W05 50 L15 Assignment 05
+ZCZC W05 45 L09 Peer revieweing links
