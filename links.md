@@ -38,15 +38,34 @@ This website contains the different types of directory in Linux's FHS. The expla
 2. [Mounting a disk in Linux](https://www.makeuseof.com/tag/mounting-hard-disks-partitions-using-linux-command-line/)<br>
 This website shows steps in mounting and unmounting a disk in Linux. I beleive it is useful in cases where we need to mount new hard disks into Linux.
 
-3. [File Systems in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
+3. [File Systems in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
 This website shows the main basics of file systems in all operating systems. I feel that it is useful to understand the basics of how file systems in OS works.
 
 ### Week 04
-1. [CS50 Lecture -- Memory](https://www.youtube.com/watch?v=Fa6Jq0Iue3U&t=1670s)
+1. [CS50 Lecture -- Memory](https://www.youtube.com/watch?v=Fa6Jq0Iue3U&t=1670s)<br>
 This video is a lecture from Harvard's CS50. For me, the main explanation regarding the memory mechanism starts at the "Memory addresses" timestamp (at 00:27:50), where how numbers are stored in memory are explained, followed by C code demonstration and an explanation of pointers. Memory management is also discussed in this video.
 
-2. [What is Little-Endian and Big-Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)
+2. [What is Little-Endian and Big-Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
 This website shows a brief explanation regarding byte organsiation and endianness: big-endian and little-endian. Sometimes, I got them mixed up, so having a better understanding of how bytes are organised in memory is still important.
 
-3. [C Pointers](https://www.guru99.com/c-pointers.html)
+3. [C Pointers](https://www.guru99.com/c-pointers.html)<br>
 This website mainly discusses pointers in C, including their syntax and their types. It is mainly helpful in understanding how pointers work, as well as a cheatsheet to all operations that can be applied on them.
+
+### Week 05
+1. [FIFO replacement algorithm](https://www.youtube.com/watch?v=FWoMSiMep80)<br>
+This video is a step-by-step explanation on how the first-in-first-out algorithm works. I believe that step-by-step videos like these are very important in understanding the concept and getting a better grasp at it.
+
+2. [LRU replacement algorithm](https://www.youtube.com/watch?v=u23ROrlSK_g&t=524s)<br>
+This video is a step-by-step explanation on how the least recently used algorithm works. It is also easily understandable to viewers, including myself, to get the better of the conecpt of it.
+
+3. [Optimal replacement algorithm](https://www.youtube.com/watch?v=jeJIKKQcqpU&t=15s)<br>
+This video explains about the optimal replacement algorithm, including a step-by-step trace of the example. It is very clear, especially for me, to understand the algorithm through the tracing.
+
+4. [Frame allocations in OS](https://www.i2tutorials.com/os-introduction/os-allocation-of-frames-in-os/)<br>
+This website explains about different types of frame allocations in OS. It is very straight-forward, and therefore very easy to understand.
+
+5. [Demand paging](https://www.javatpoint.com/os-demand-paging)<br>
+This website briefly explains about the basics of page fault, as well as thrashing. It is important to understand these two concepts before going into deeper topics.
+
+6. [I/O operations in C](https://www.tutorialspoint.com/cprogramming/c_file_io.htm)<br>
+This website explains about I/O operations in C. I believe that this cheatsheet might help in programming with C in the future.
