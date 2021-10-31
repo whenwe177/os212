@@ -27,3 +27,7 @@ ZCZC W05 25 L13 Assignment 03
 ZCZC W05 45 L14 Assignment 04
 ZCZC W05 50 L15 Assignment 05
 ZCZC W05 45 L09 Peer revieweing links
+ZCZC W06 50 L14 Assignment 04
+ZCZC W06 40 L15 Find bookmark links
+ZCZC W06 10 L15 Edit links.md
+ZCZC W06 30 L17 Peer review links

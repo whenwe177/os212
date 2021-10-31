@@ -11,3 +11,6 @@ ZCZC W04 almiramaharani
 ZCZC W05 anantus
 ZCZC W05 ardanisar
 ZCZC W05 aryafchandra
+ZCZC W06 athaqilmakarim
+ZCZC W06 bilhudapramana
+ZCZC W06 bimabara

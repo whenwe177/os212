@@ -69,3 +69,13 @@ This website briefly explains about the basics of page fault, as well as thrashi
 
 6. [I/O operations in C](https://www.tutorialspoint.com/cprogramming/c_file_io.htm)<br>
 This website explains about I/O operations in C. I believe that this cheatsheet might help in programming with C in the future.
+
+### Week 06
+1. [Visualisation of Fork operations in C](https://www.youtube.com/watch?v=QD9YKSg3wCc)<br>
+This is a youtube video detailing how fork operations are traced, from the process of assigning IDs to the child process and more. Fork is quite complicated to understand in C, and therefore it is crucial to understand them very clearly.
+
+2. [Syntax and code examples of fork in C](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+The following are examples of the fork code in C programming language. Since we have walked through the visualisation in the video shown previously, it is important to know how to use them directly in C.
+
+3. [Concurrency in OS](https://www.javatpoint.com/concurrency-in-operating-system)<br>
+The following website details about concurrency, as well as its principles in OS. I believe that it is very important to understand the basics, as it certainly helps to understand more about concurrency.
