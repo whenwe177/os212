@@ -79,3 +79,7 @@ The following are examples of the fork code in C programming language. Since we 
 
 3. [Concurrency in OS](https://www.javatpoint.com/concurrency-in-operating-system)<br>
 The following website details about concurrency, as well as its principles in OS. I believe that it is very important to understand the basics, as it certainly helps to understand more about concurrency.
+
+### Week 07
+1. [Introduction to Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+This website details about introductory topics regarding synchronization, from theprocess syncrhonisation, from race condition, critical solution problem among others. It is important to understand the core basics of synchronization before diving deep into deeper topics.
