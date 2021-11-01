@@ -83,3 +83,9 @@ The following website details about concurrency, as well as its principles in OS
 ### Week 07
 1. [Introduction to Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
 This website details about introductory topics regarding synchronization, from theprocess syncrhonisation, from race condition, critical solution problem among others. It is important to understand the core basics of synchronization before diving deep into deeper topics.
+
+2. [setuid, setgid and Sticky Bits in Linux](https://www.cbtnuggets.com/blog/technology/system-admin/linux-file-permissions-understanding-setuid-setgid-and-the-sticky-bit)<br>
+Setuid, setgid and sticky bits are a set of bits that defines the access of a file for a user with a specific privilege (similar to chmod). It will be useful to dive into this topic after getting comfortable with chmod and chown.
+
+3. [Code multithreading explanation](https://www.youtube.com/watch?v=7ENFeb-J75k)<br>
+The following video is a Computerphile video regarding multithreading. Mutlithreading is not a relatively easy concept to understand and grasp, therefore an explanation in video form is very helpful. There are also snippets of C code in this video regarding the matter, explained by a University of Nottingham lecturer.
