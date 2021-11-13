@@ -89,3 +89,13 @@ Setuid, setgid and sticky bits are a set of bits that defines the access of a fi
 
 3. [Code multithreading explanation](https://www.youtube.com/watch?v=7ENFeb-J75k)<br>
 The following video is a Computerphile video regarding multithreading. Mutlithreading is not a relatively easy concept to understand and grasp, therefore an explanation in video form is very helpful. There are also snippets of C code in this video regarding the matter, explained by a University of Nottingham lecturer.
+
+### Week 08
+1. [Process Scheduling in Operating System](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+The following website shows about how proceses are scheduled in an operating system. Scheduling is important in order to regulate the running of processes in a multiprogrammed OS.
+
+2. [CPU and I/O burst cycle](https://www.youtube.com/watch?v=pVzb3TUcDLo)<br>
+The following video shows what CPU and I/O states are in the two state model. It is important to understand these topics first before going deeper into the calculations.
+
+3. [Preemptive and nonpreemptive scheduling](https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html)<br>
+The following website shows the differences between preemptive and nonpreemptive scheduling. It is a good thing to understand these concepts to better understand scheduling.
