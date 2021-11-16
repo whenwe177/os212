@@ -37,3 +37,4 @@ ZCZC W07 10 L07 Peer reviewing links
 ZCZC W08 60 L14 Assignment 4 (Chapter 1-4 of LFS)
 ZCZC W08 120 L15 Assignment 5 (Chapter 5 of LFS)
 ZCZC W08 30 L01 Answering question in forum
+ZCZC W09 210 L14 Assignment 4 (Chapter 6 - 7 of LFS)
